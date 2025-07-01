@@ -1,0 +1,12 @@
+IP-CIDR,10.0.88.0/24,no-resolve
+DOMAIN-SUFFIX,files.tianhao.me
+DOMAIN-SUFFIX,mt.tianhao.me
+DOMAIN-SUFFIX,dns.tianhao.me
+DOMAIN-SUFFIX,npm.tianhao.me
+DOMAIN-SUFFIX,esxi.tianhao.me
+DOMAIN-SUFFIX,openwrt.tianhao.me
+DOMAIN-SUFFIX,fnos.tianhao.me
+DOMAIN-SUFFIX,immich.tianhao.me
+DOMAIN-SUFFIX,nas.tianhao.me
+DOMAIN-SUFFIX,dsm.tianhao.me
+DOMAIN-SUFFIX,emby.tianhao.me
