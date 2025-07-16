@@ -1,3 +1,7 @@
+PROCESS-NAME,SunloginClient,DIRECT
+PROCESS-NAME,WeChat,DIRECT
+PROCESS-NAME,Sublime Text,DIRECT
+
 IP-CIDR,10.0.88.0/24,no-resolve
 DOMAIN-SUFFIX,files.tianhao.me
 DOMAIN-SUFFIX,dns.tianhao.me
