@@ -1,5 +1,6 @@
 PROCESS-NAME,Cursor.app,Proxy
 
+DOMAIN-SUFFIX,viewer.bookwalker.jp,Proxy
 DOMAIN-SUFFIX,bookwalker.jp,Proxy
 DOMAIN-SUFFIX,bookwalker.com.tw,Proxy
 DOMAIN-SUFFIX,openai.com,Proxy
