@@ -1,4 +1,6 @@
 IP-CIDR,10.0.88.0/24,no-resolve
+IP-CIDR,10.0.30.200/32,no-resolve
+DOMAIN-SUFFIX,ids7908.me
 DOMAIN-SUFFIX,files.tianhao.me
 DOMAIN-SUFFIX,dns.tianhao.me
 DOMAIN-SUFFIX,npm.tianhao.me
